@@ -134,3 +134,29 @@ position: relative;
   height: 500px;
   background: url('../imagens/grupo.jpg') center / cover;
 }
+
+.demo-card-wide > .mdl-card__title {
+    color: #fff;
+    height: 285px;
+    
+}
+
+.demo-card-wide.mdl-card {
+  width: 300px;
+}
+
+.mdl-button.mdl-js-button.nome {
+    font-size: 15px;
+    color: #ffad5b;
+    font-weight: bold;
+}
+
+.mdl-button.mdl-js-button.menu {
+    font-size: 25px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.material-icons.mdl-list__item-icon.menu {
+	color: #ffad5b;
+}

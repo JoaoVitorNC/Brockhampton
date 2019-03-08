@@ -24,15 +24,34 @@
                 </div>
                         
 		<div id="corpo">
-                 
-                 <!-- Imagem -->
-                <div class="demo-card-image mdl-card mdl-shadow--8dp">
-                </div><br>
-                 
-                <!-- Texto -->
-                <span class="mdl-chip">
-                    <span class="mdl-chip__text" style="font-size:25px; color:black; font-weight: bold;font-style: italic;">HARDEST WORKING BOYBAND IN SHOW BUSINESS</span>
-                </span>
+                    
+                    <table cellspacing="17">
+                        <td>
+                            <div class="demo-card-wide mdl-card mdl-shadow--2dp"> 
+                                <div class="mdl-card__title"  style="background: url('../imagens/matt.jpg') center / cover;">
+                                </div>
+                                <div class="mdl-card__actions mdl-card--border">
+                                    <button type="submit" name="abrir" value="matt" class="mdl-button mdl-js-button mdl-js-ripple-effect nome">
+					Matt Champion
+                                    </button>
+                                </div>                          
+                            </div>
+                            
+                            </td>
+                            
+                        <td>
+                            <div class="demo-card-wide mdl-card mdl-shadow--2dp"> 
+                                <div class="mdl-card__title"  style="background: url('../imagens/joba.jpg') center / cover;">
+                                </div>
+                                <div class="mdl-card__actions mdl-card--border">
+                                    <button type="submit" name="abrir" value="matt" class="mdl-button mdl-js-button mdl-js-ripple-effect nome">
+					Joba
+                                    </button>
+                                </div>
+                            </div>
+                        </td>
+                        
+                    </table>
                  
 		</div> <!-- Fecha a div 'corpo' -->
 			

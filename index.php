@@ -27,13 +27,11 @@
                  
                  <!-- Imagem -->
                 <div class="demo-card-image mdl-card mdl-shadow--8dp">
-                </div><br>
+                </div>
                  
                 <!-- Texto -->
-                <span class="mdl-chip">
-                    <span class="mdl-chip__text" style="font-size:25px; color:black; font-weight: bold;font-style: italic;">HARDEST WORKING BOYBAND IN SHOW BUSINESS</span>
-                </span>
-                 
+                <h4>The group</h4>
+                       
 		</div> <!-- Fecha a div 'corpo' -->
 			
                 <div id="espaco02">
