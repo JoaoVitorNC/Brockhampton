@@ -23,8 +23,8 @@ body {
 	width: 810px;
 	height: 325px;
 	background-color:#ffffff;
-        align-content: center;
-        margin-left: 100px;
+    align-content: center;
+    margin-left: 100px;
 }
 
 #menu {
@@ -33,7 +33,7 @@ body {
 	height: 50px;
 	background-color: #e2e2e2;
 	border-radius: 7px;
-	font-size: 24px;
+	font-size: 22px;
 	font-weight: bold;
 	line-height: 45px;
 	font-style: italic;
@@ -129,6 +129,11 @@ position: relative;
         font-weight: bold;
 }
 
+a:link 
+{ 
+text-decoration:none; 
+} 
+
 .demo-card-image.mdl-card {
   width: 925px;
   height: 500px;
@@ -137,12 +142,12 @@ position: relative;
 
 .demo-card-wide > .mdl-card__title {
     color: #fff;
-    height: 285px;
+    height: 350px;
     
 }
 
 .demo-card-wide.mdl-card {
-  width: 300px;
+  width: 290px;
 }
 
 .mdl-button.mdl-js-button.nome {

@@ -37,11 +37,6 @@
                 <div id="espaco02">
                 </div>
                         
-		<div id="rodape">
-                    <?php
-                    include('rodape.php');
-                    ?>
-		</div>>
             </div> <!-- Fecha a div 'container' -->
 	</body>
 </html>
